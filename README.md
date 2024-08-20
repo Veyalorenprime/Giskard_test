@@ -1,4 +1,4 @@
-# Giskard_test
+# SMOTE data augumentation using logistic regression
 This script uses data augumentation to retrain a Logistic regression model to enhance its performance
 # Data Preparation
 Import necessary libraries and modules.
